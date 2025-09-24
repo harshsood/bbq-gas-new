@@ -35,7 +35,7 @@ const Contact = () => {
     {
       icon: MessageCircle,
       title: 'WhatsApp Orders',
-      info: '+971 50 123 4567',
+      info: '+971582821712',
       description: 'Quick orders via WhatsApp messaging',
       color: 'green',
       available: 'Instant Response'
@@ -51,7 +51,7 @@ const Contact = () => {
     {
       icon: Headphones,
       title: 'Emergency Service',
-      info: '+971 50 999 8888',
+      info: '+971582821712',
       description: 'Emergency gas cylinder delivery',
       color: 'red',
       available: '24/7 Emergency'
@@ -298,7 +298,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">WhatsApp</p>
-                      <p className="text-gray-600">+971 50 123 4567</p>
+                      <p className="text-gray-600">+971582821712</p>
                     </div>
                   </div>
 
@@ -334,7 +334,7 @@ const Contact = () => {
                   Need urgent gas cylinder delivery or having a gas emergency? Call our emergency hotline.
                 </p>
                 <button className="w-full bg-red-600 hover:bg-red-700 text-white px-4 py-3 rounded-lg font-semibold transition-colors">
-                  Emergency: +971 50 999 8888
+                  Emergency: +971582821712
                 </button>
               </div>
             </div>
@@ -375,7 +375,7 @@ const Contact = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-white text-orange-600 px-8 py-4 rounded-xl font-semibold text-lg hover:bg-gray-100 transition-colors flex items-center justify-center space-x-2">
               <Phone size={20} />
-              <span>Call Now: +971 4 123 4567</span>
+              <span>Call Now: +971582821712</span>
             </button>
             <button className="border-2 border-white text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-white hover:text-orange-600 transition-colors flex items-center justify-center space-x-2">
               <MessageCircle size={20} />
