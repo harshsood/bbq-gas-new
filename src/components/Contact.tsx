@@ -50,7 +50,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-900">Order Hotline</p>
-                    <p className="text-gray-600">+971 4 123 4567</p>
+                    <p className="text-gray-600">+971582821712</p>
                   </div>
                 </div>
 
@@ -93,7 +93,7 @@ const Contact = () => {
                 Need urgent gas cylinder delivery or having a gas emergency?
               </p>
               <button className="w-full bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-lg font-semibold transition-colors">
-                Emergency Gas: +971 50 123 4567
+                Emergency Gas: +971582821712
               </button>
             </div>
           </div>
