@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Shield, CheckCircle, Truck } from 'lucide-react';
-import transPort from "src/components/WhatsApp-Image-2022-09-01-at-12.27.34-PM-1.jpeg";
+import transPort from "./WhatsApp-Image-2022-09-01-at-12.27.34-PM-1.jpeg";
 
 const Hero = () => {
   const [currentText, setCurrentText] = useState('');
